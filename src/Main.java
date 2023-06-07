@@ -44,7 +44,5 @@ public class Main {
         System.out.println("Conteúdos incritos de Mario: " + devMario.getConteudosInscritos());
         System.out.println("Conteúdos concluídos de Mario: " + devMario.getConteudosConcluidos());
         System.out.println("XP: " + devMario.calcularXP() + "\n");
-
-
     }
 }
